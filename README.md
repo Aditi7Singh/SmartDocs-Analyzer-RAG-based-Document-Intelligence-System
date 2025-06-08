@@ -1,4 +1,5 @@
 📄 SmartDocs Analyzer
+
 SmartDocs Analyzer is a sophisticated RAG (Retrieval-Augmented Generation) based document analysis system that combines LLM capabilities with custom NLP processing for intelligent document understanding and Q&A.
 
 🚀 Features
