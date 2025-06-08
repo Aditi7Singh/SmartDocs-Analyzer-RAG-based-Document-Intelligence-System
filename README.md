@@ -37,7 +37,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/smartdocs-analyzer.git
+git clone https://github.com/Aditi7Singh/smartdocs-analyzer.git
 cd smartdocs-analyzer
 2. Set up a virtual environment (recommended)
 bash
